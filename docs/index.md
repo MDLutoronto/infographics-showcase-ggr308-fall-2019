@@ -33,7 +33,7 @@ Note: The following 10 infographics were created in GGR308 - Canadian Arctic and
     <tbody>
         <tr>
             <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/GGR308%20Infographic.pdf"><img style="border-style:solid;border-width:1px;float:left;margin:5px;" src="assets/images/standardsize/GGR308%20Infographic.png" alt="Permafrost: The Neglected Threat" width="225" height="727"></a>
+                <a href="assets/images/Final/GGR308Infographic.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308Infographic.png" alt="Permafrost: The Neglected Threat" width="225" height="727"></a>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <a href="assets/images/Final/GGR308_oriannamitchell.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308_oriannamitchell.png" alt="The Snowpack is Changing by Orianna Mitchell" width="225" height="878"></a>
@@ -41,23 +41,23 @@ Note: The following 10 infographics were created in GGR308 - Canadian Arctic and
         </tr>
         <tr>
             <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/GGR308%20Sea%20Ice%20Infographic%20Submission.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308%20Sea%20Ice%20Infographic%20Submission.png" alt="No Ice, No Food: Melting Sea Ice and Hunting in Northern Canadian Communities" width="225" height="648"></a>
+                <a href="assets/images/Final/GGR308SeaIceInfographicSubmission.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308SeaIceInfographicSubmission.png" alt="No Ice, No Food: Melting Sea Ice and Hunting in Northern Canadian Communities" width="225" height="648"></a>
             </td>
             <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/GGR308%20Poster.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308%20Poster.png" alt="Walking on Thin Ice: Impacts of Climate Change on Sea Ice in the Arctic" width="225" height="518"></a>
-            </td>
-        </tr>
-        <tr>
-            <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/Infographic%20Poster.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/Infographic%20Poster.png" alt="Melting Sea Ice in the Arctic Ocean" width="225" height="1192"></a>
-            </td>
-            <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/Permafrost%20Infographic%20for%20Map%20and%20Data%20Library.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/Permafrost%20Infographic%20for%20Map%20and%20Data%20Library.png" alt="Wavering Ground: The Fate of Permafrost in Canada" width="225" height="1685"></a>
+                <a href="assets/images/Final/GGR308Poster.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/GGR308Poster.png" alt="Walking on Thin Ice: Impacts of Climate Change on Sea Ice in the Arctic" width="225" height="518"></a>
             </td>
         </tr>
         <tr>
             <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/Permafrost%20Diagrams%20Version%20III.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/Permafrost%20Diagrams%20Version%20III.png" alt="Thawing Permafrost, Changing Communities in Canada by Grace Ma" width="225" height="803"></a>
+                <a href="assets/images/Final/InfographicPoster.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/InfographicPoster.png" alt="Melting Sea Ice in the Arctic Ocean" width="225" height="1192"></a>
+            </td>
+            <td style="text-align:center;vertical-align:top;">
+                <a href="assets/images/Final/PermafrostInfographicforMapandDataLibrary.png"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/PermafrostInfographicforMapandDataLibrary.png" alt="Wavering Ground: The Fate of Permafrost in Canada" width="225" height="1685"></a>
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center;vertical-align:top;">
+                <a href="assets/images/Final/PermafrostDiagramsVersionIII.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/PermafrostDiagramsVersionIII.png" alt="Thawing Permafrost, Changing Communities in Canada by Grace Ma" width="225" height="803"></a>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <a href="assets/images/Final/InfographicPoster_Nilanika_Goonetilleke.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/InfographicPoster_Nilanika_Goonetilleke.png" alt="Thawing Permafrost: A Risk to Food Securities" width="225" height="618"></a>
@@ -65,7 +65,7 @@ Note: The following 10 infographics were created in GGR308 - Canadian Arctic and
         </tr>
         <tr>
             <td style="text-align:center;vertical-align:top;">
-                <a href="assets/images/Final/Permafrost%20Infographic.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/Permafrost%20Infographic.png" alt="Permafrost in the Canadian Arctic" width="225" height="1000"></a>
+                <a href="assets/images/Final/PermafrostInfographic.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/PermafrostInfographic.png" alt="Permafrost in the Canadian Arctic" width="225" height="1000"></a>
             </td>
             <td style="text-align:center;vertical-align:top;">
                 <a href="assets/images/Final/Sea_ice_Infographic_Updated.pdf"><img style="border-style:solid;border-width:1px;margin:5px;" src="assets/images/standardsize/Sea_ice_Infographic_Updated.png" alt="Sea Ice and Climate Change: The Northern Canadian Experience" width="225" height="988"></a>
